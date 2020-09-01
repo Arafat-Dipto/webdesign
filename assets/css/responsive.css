@@ -1,0 +1,102 @@
+@media(min-width: 320px) {
+	.topbar {
+		height: 60px !important;
+		background: #F5F7F9;
+		padding-left: 20px ;
+		padding-right: 20px ;
+	}
+	.topbarinfo  {
+		flex-direction: column;
+	}
+	.topbarinfo .email{
+		padding-right: 24px;
+	}
+	.navbar {
+		padding-left: 20px ;
+		padding-right: 20px ;
+	}
+}
+@media(min-width: 480px) {
+	.topbar {
+		height: 60px !important;
+		background: #F5F7F9;
+		padding-left: 20px ;
+		padding-right: 20px ;
+	}
+	.topbarinfo  {
+		flex-direction: column;
+	}
+	.topbarinfo .email{
+		padding-right: 24px;
+	}
+	.navbar {
+		padding-left: 20px ;
+		padding-right: 20px ;
+	}
+}
+@media(min-width: 597px) {
+	.topbar {
+		height: 60px !important;
+		background: #F5F7F9;
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	.topbarinfo {
+		flex-direction: column;
+	}
+	.topbarinfo .email{
+		padding-right: 24px;
+	}
+	.navbar {
+		padding-left: 20px ;
+		padding-right: 20px ;
+	}
+}
+@media(min-width: 767px) {
+	.topbar {
+	height: 40px !important;
+	background: #F5F7F9;
+	padding-left: 120px;
+	padding-right: 120px;
+	}
+	.topbarinfo  {
+		flex-direction: row;
+	}
+	.navbar {
+		padding-left: 120px;
+		padding-right: 120px;
+	}
+}
+@media(min-width: 991px) {
+	.topbar {
+	height: 40px !important;
+	background: #F5F7F9;
+	padding-left: 120px;
+	padding-right: 120px;
+	}
+	.topbarinfo  {
+		flex-direction: row;
+	}
+	.navbar {
+		padding-left: 120px;
+		padding-right: 120px;
+	}
+}
+@media(min-width: 1230px) {
+	.topbar {
+	height: 40px !important;
+	background: #F5F7F9;
+	padding-left: 120px;
+	padding-right: 120px;
+	}
+	.topbarinfo  {
+		flex-direction: row;
+	}
+	.navbar {
+		padding-left: 120px;
+		padding-right: 120px;
+	}
+	.navbar-brand {
+	margin-right: 20px !important;
+	}
+}
